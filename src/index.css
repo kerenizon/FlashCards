@@ -118,6 +118,7 @@ code {
   border: 2px solid purple;
   margin-top: 10px;
   background-color: #fff;
+  transform: rotate(180deg);
 }
 
 .progressBarFull {
